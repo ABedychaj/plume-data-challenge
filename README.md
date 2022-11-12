@@ -19,3 +19,13 @@
    * Calculate the [balanced accuracy score](https://scikit-learn.org/stable/modules/model_evaluation.html#balanced-accuracy-score)
 8. Describe what kind of improvements you would make if you have more time.
 
+# Repository Structure
+```
+plume-data-challenge
+├── README.md
+├── dataset # complete dataset from UCI
+├ plume_data_challenge.ipynb # jupyter notebook with the solution
+├ requirements.txt # python dependencies
+```
+
+If you have any questions, please email me at [email](andrzej.bedychaj@gmail.com).
